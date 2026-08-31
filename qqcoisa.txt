@@ -1,0 +1,9 @@
+hELOO MARINA
+
+
+SOU BURRINHO LERO LERO LERO LERO 
+
+if(SouBurrinho != false) {
+	print("Sou menos burro");
+
+}
